@@ -1,0 +1,33 @@
+.row{
+    text-align: center;
+    background-color: aqua;
+ 
+
+}
+
+.corp1 {
+    background: rgb(162, 190, 116);
+    color: #070505;   /*mudar cor do texto*/
+}   
+.corp2 {
+    background: rgb(184, 166, 110);
+    color: #070505;   /*mudar cor do texto*/
+
+}    
+
+.corp3 {
+    background: rgb(135, 222, 181);
+    color: #050505;   /*mudar cor do texto*/
+}
+.link{
+    margin-left: 69.4rem;   /*mudara para a direita*/
+}
+
+.fotos {
+    width: 200px;  /*largura*/
+    height: 200px; /*altura*/
+    background-color: black ;
+    display: flex;
+   
+
+}
